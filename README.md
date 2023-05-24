@@ -22,7 +22,7 @@ Managing doctor's appointments is made easier with the Baby Care App. Parents ca
 The Baby Care App also offers the following additional features to enhance the overall experience:
 
 - **Nanny Schedule**: Parents can maintain a schedule for their baby's nanny, ensuring effective communication and coordination.
-- **Inappmessenger**: Parents can send messages to nanny and can monitor their childs schedules.
+- **In App Messenger**: Parents can send messages to nanny and can monitor their childs schedules.
 
 - ## Security Features
 The Baby Care App prioritizes the security and privacy of user data. It incorporates the following security features:
